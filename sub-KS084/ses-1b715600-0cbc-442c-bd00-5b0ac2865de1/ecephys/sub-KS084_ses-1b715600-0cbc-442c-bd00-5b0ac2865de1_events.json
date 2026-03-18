@@ -1,0 +1,66 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "choice": {
+        "Description": "The response type registered for each trial where -1 corresponds to turning the wheel CCW, +1 turning CW, and 0 being a timeout (\u2018no-go\u2019) where the wheel wasn\u2019t moved to threshold within the 60 second time window.\n"
+    },
+    "feedback_type": {
+        "Description": "Whether the feedback was positive (+1) or negative (-1).  Positive feedback indicates a correct response rewarded with sugar water.  Negative feedback indicates a trial timeout or incorrect response followed by a white noise burst.\n"
+    },
+    "reward_volume": {
+        "Description": "The volume of reward delivered on each trial.  On trials where feedbackType == -1, rewardVolume == 0.  The reward volume is typically within the range of 1.5 to 3 and should not change within a session.\n"
+    },
+    "contrast_left": {
+        "Description": "The contrast of the stimulus that appears on the left side of the screen (-35\u00ba azimuth).  When there is a non-zero contrast on the right, contrastLeft == 0, when there is no contrast on either side (a \u2018catch\u2019 trial), contrastLeft == NaN.\n"
+    },
+    "contrast_right": {
+        "Description": "The contrast of the stimulus that appears on the right side of the screen (35\u00ba azimuth).  When there is a non-zero contrast on the left, contrastRight == 0, when there is no contrast on either side (a \u2018catch\u2019 trial), contrastRight == NaN.\n"
+    },
+    "probability_left": {
+        "Description": "Probability that the stimulus will be on the left-hand side for the current trial. The probability of right is 1 minus this.  For repeat trials (trainingChoiceWorld) the probability is N(bias,4), where bias is calculated using responses from the last 10 trials.  During biased blocks (biasedChoiceWorld) the probability may be 0.5, 0.8, or 0.2.\n"
+    },
+    "feedback_time": {
+        "Description": "The time of feedback delivery. For correct trials this is the time of the valve TTL trigger command, for incorrect trials this is the time of the white noise output trigger.\n"
+    },
+    "response_time": {
+        "Description": "The time at which a response was recorded.  This marks the end of the closed loop state in Bpod and occurs when either 60 seconds have elapsed since the go cue, or the rotary encoder reaches a position equivalent to the stimulus on the screen reaching + or - 35\u00ba azimuth.\n"
+    },
+    "stim_off_time": {
+        "Description": "Time in seconds, relative to the session start, of the stimulus offset, as recorded by an external photodiode.\n"
+    },
+    "stim_on_time": {
+        "Description": "The time at which the visual stimulus appears on the screen, as detected by the photodiode which is placed over the sync square that flips colour each time the screen is redrawn.\n"
+    },
+    "go_cue_time": {
+        "Description": "The start time of the go cue tone. This is the time the sound is actually played, that is, the command sent through soundcard sync was fed back into Bpod.  The go cue tone is a 100ms 5 kHz sine wave and occurs approximately at the time of stimulus onset.\n"
+    },
+    "first_movement_time": {
+        "Description": "The time of the first detected movement of the trial with a sufficiently large amplitude.  To be counted, the movement must occur between go cue and before feedback time.  The movement onset is sometimes just before the cue (occurring in the gap between quiescence end and cue start, or during the quiescence period but sub-threshold).  The movement is sufficiently large if it is greater than or equal to .1 radians.\n"
+    },
+    "peak_amplitude": {
+        "Description": "The absolute maximum amplitude of each detected wheel movement, relative to onset position."
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file.",
+            "WheelMovementIntervals": "The 'WheelMovementIntervals' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial",
+            "WheelMovementIntervals": "Time-interval"
+        }
+    },
+    "trials": {
+        "Description": "Trial intervals and conditions."
+    },
+    "WheelMovementIntervals": {
+        "Description": "The onset and offset times of all detected movements. Movements are defined as a wheel movement of at least 0.012 rad over 200ms. For a rotary encoder of resolution 1024 in X4 encoding, this is equivalent to around 8 ticks. Movements below 50ms are discarded and two detected movements within 100ms of one another are considered as a single movement. For the onsets a lower threshold is used to find a more precise onset time. The wheel diameter is 6.2 cm and the number of ticks is 4096 per revolution.\n"
+    }
+}
