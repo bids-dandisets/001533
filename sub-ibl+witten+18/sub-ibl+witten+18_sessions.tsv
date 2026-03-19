@@ -1,4 +1,4 @@
-session_id
-ses-25f77e81+c1af+46ab+8686+73ac3d67c4a7
-ses-4ef13091+1bc8+4f32+9619+107bdf48540c
-ses-cae5cd75+55e5+4277+8db3+cf4d6c5ff918
+session_id	original_session_id
+ses-25f77e81+c1af+46ab+8686+73ac3d67c4a7	ses-25f77e81-c1af-46ab-8686-73ac3d67c4a7
+ses-4ef13091+1bc8+4f32+9619+107bdf48540c	ses-4ef13091-1bc8-4f32-9619-107bdf48540c
+ses-cae5cd75+55e5+4277+8db3+cf4d6c5ff918	ses-cae5cd75-55e5-4277-8db3-cf4d6c5ff918

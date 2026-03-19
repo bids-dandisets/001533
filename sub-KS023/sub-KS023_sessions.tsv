@@ -1,5 +1,5 @@
-session_id
-ses-a4000c2f+fa75+4b3e+8f06+a7cf599b87ad
-ses-a92c4b1d+46bd+457e+a1f4+414265f0e2d4
-ses-aad23144+0e52+4eac+80c5+c4ee2decb198
-ses-cc45c568+c3b9+4f74+836e+c87762e898c8
+session_id	original_session_id
+ses-a4000c2f+fa75+4b3e+8f06+a7cf599b87ad	ses-a4000c2f-fa75-4b3e-8f06-a7cf599b87ad
+ses-a92c4b1d+46bd+457e+a1f4+414265f0e2d4	ses-a92c4b1d-46bd-457e-a1f4-414265f0e2d4
+ses-aad23144+0e52+4eac+80c5+c4ee2decb198	ses-aad23144-0e52-4eac-80c5-c4ee2decb198
+ses-cc45c568+c3b9+4f74+836e+c87762e898c8	ses-cc45c568-c3b9-4f74-836e-c87762e898c8

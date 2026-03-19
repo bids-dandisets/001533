@@ -1,140 +1,140 @@
-participant_id	species	sex	strain
-sub-CSHL045	Mus musculus	M	C57BL/6
-sub-CSHL047	Mus musculus	M	C57BL/6
-sub-CSHL049	Mus musculus	M	C57BL/6
-sub-CSHL051	Mus musculus	F	C57BL/6
-sub-CSHL052	Mus musculus	F	C57BL/6
-sub-CSHL053	Mus musculus	F	C57BL/6
-sub-CSHL054	Mus musculus	F	C57BL/6
-sub-CSHL055	Mus musculus	F	C57BL/6
-sub-CSHL058	Mus musculus	M	C57BL/6
-sub-CSHL059	Mus musculus	M	C57BL/6
-sub-CSHL060	Mus musculus	M	C57BL/6
-sub-CSH+ZAD+001	Mus musculus	F	C57BL/6
-sub-CSH+ZAD+011	Mus musculus	F	C57BL/6
-sub-CSH+ZAD+019	Mus musculus	F	C57BL/6
-sub-CSH+ZAD+022	Mus musculus	M	C57BL/6
-sub-CSH+ZAD+024	Mus musculus	M	C57BL/6
-sub-CSH+ZAD+025	Mus musculus	M	C57BL/6
-sub-CSH+ZAD+026	Mus musculus	M	C57BL/6
-sub-CSH+ZAD+029	Mus musculus	M	C57BL/6
-sub-DY+008	Mus musculus	M	C57BL/6
-sub-DY+009	Mus musculus	M	C57BL/6
-sub-DY+010	Mus musculus	M	C57BL/6
-sub-DY+011	Mus musculus	M	C57BL/6
-sub-DY+013	Mus musculus	M	C57BL/6
-sub-DY+014	Mus musculus	M	C57BL/6
-sub-DY+016	Mus musculus	M	C57BL/6
-sub-DY+018	Mus musculus	M	C57BL/6
-sub-DY+020	Mus musculus	M	C57BL/6
-sub-KS014	Mus musculus	M	C57BL/6
-sub-KS016	Mus musculus	M	C57BL/6
-sub-KS022	Mus musculus	M	C57BL/6
-sub-KS023	Mus musculus	F	C57BL/6
-sub-KS042	Mus musculus	M	C57BL/6
-sub-KS043	Mus musculus	M	C57BL/6
-sub-KS044	Mus musculus	M	C57BL/6
-sub-KS045	Mus musculus	M	C57BL/6
-sub-KS046	Mus musculus	M	C57BL/6
-sub-KS051	Mus musculus	M	C57BL/6
-sub-KS052	Mus musculus	M	C57BL/6
-sub-KS055	Mus musculus	M	C57BL/6
-sub-KS084	Mus musculus	M	C57BL/6
-sub-KS086	Mus musculus	M	C57BL/6
-sub-KS091	Mus musculus	M	C57BL/6
-sub-KS094	Mus musculus	M	C57BL/6
-sub-KS096	Mus musculus	M	C57BL/6
-sub-MFD+05	Mus musculus	M	C57BL/6
-sub-MFD+06	Mus musculus	M	C57BL/6
-sub-MFD+07	Mus musculus	M	C57BL/6
-sub-MFD+08	Mus musculus	M	C57BL/6
-sub-MFD+09	Mus musculus	M	C57BL/6
-sub-NR+0017	Mus musculus	M	C57BL/6
-sub-NR+0019	Mus musculus	M	C57BL/6
-sub-NR+0020	Mus musculus	M	C57BL/6
-sub-NR+0021	Mus musculus	M	C57BL/6
-sub-NR+0024	Mus musculus	F	C57BL/6
-sub-NR+0027	Mus musculus	M	C57BL/6
-sub-NR+0028	Mus musculus	F	C57BL/6
-sub-NR+0029	Mus musculus	F	C57BL/6
-sub-NR+0031	Mus musculus	F	C57BL/6
-sub-NYU+11	Mus musculus	F	C57BL/6
-sub-NYU+12	Mus musculus	F	C57BL/6
-sub-NYU+21	Mus musculus	F	C57BL/6
-sub-NYU+30	Mus musculus	M	C57BL/6
-sub-NYU+37	Mus musculus	M	C57BL/6
-sub-NYU+39	Mus musculus	M	C57BL/6
-sub-NYU+40	Mus musculus	M	C57BL/6
-sub-NYU+45	Mus musculus	M	C57BL/6
-sub-NYU+46	Mus musculus	M	C57BL/6
-sub-NYU+47	Mus musculus	M	C57BL/6
-sub-NYU+48	Mus musculus	M	C57BL/6
-sub-NYU+65	Mus musculus	M	C57BL/6
-sub-PL015	Mus musculus	M	C57BL/6
-sub-PL016	Mus musculus	M	C57BL/6
-sub-PL017	Mus musculus	M	C57BL/6
-sub-PL024	Mus musculus	M	C57BL/6
-sub-PL030	Mus musculus	M	C57BL/6
-sub-PL031	Mus musculus	M	C57BL/6
-sub-PL033	Mus musculus	M	C57BL/6
-sub-PL034	Mus musculus	M	C57BL/6
-sub-PL035	Mus musculus	M	C57BL/6
-sub-PL037	Mus musculus	M	C57BL/6
-sub-PL050	Mus musculus	M	C57BL/6
-sub-SWC+038	Mus musculus	F	C57BL/6
-sub-SWC+039	Mus musculus	F	C57BL/6
-sub-SWC+042	Mus musculus	M	C57BL/6
-sub-SWC+043	Mus musculus	M	C57BL/6
-sub-SWC+052	Mus musculus	F	C57BL/6
-sub-SWC+053	Mus musculus	M	C57BL/6
-sub-SWC+054	Mus musculus	M	C57BL/6
-sub-SWC+058	Mus musculus	M	C57BL/6
-sub-SWC+060	Mus musculus	F	C57BL/6
-sub-SWC+061	Mus musculus	F	C57BL/6
-sub-SWC+065	Mus musculus	F	C57BL/6
-sub-SWC+066	Mus musculus	F	C57BL/6
-sub-UCLA005	Mus musculus	F	C57BL/6
-sub-UCLA006	Mus musculus	F	C57BL/6
-sub-UCLA011	Mus musculus	M	C57BL/6
-sub-UCLA012	Mus musculus	M	C57BL/6
-sub-UCLA014	Mus musculus	F	C57BL/6
-sub-UCLA015	Mus musculus	F	C57BL/6
-sub-UCLA017	Mus musculus	F	C57BL/6
-sub-UCLA030	Mus musculus	F	C57BL/6
-sub-UCLA033	Mus musculus	F	C57BL/6
-sub-UCLA034	Mus musculus	M	C57BL/6
-sub-UCLA035	Mus musculus	M	C57BL/6
-sub-UCLA036	Mus musculus	M	C57BL/6
-sub-UCLA037	Mus musculus	M	C57BL/6
-sub-UCLA044	Mus musculus	F	C57BL/6
-sub-UCLA048	Mus musculus	F	C57BL/6
-sub-UCLA049	Mus musculus	F	C57BL/6
-sub-UCLA052	Mus musculus	F	C57BL/6
-sub-ZFM+01576	Mus musculus	F	C57BL/6
-sub-ZFM+01577	Mus musculus	F	C57BL/6
-sub-ZFM+01592	Mus musculus	M	C57BL/6
-sub-ZFM+01935	Mus musculus	M	C57BL/6
-sub-ZFM+01936	Mus musculus	F	C57BL/6
-sub-ZFM+01937	Mus musculus	F	C57BL/6
-sub-ZFM+02368	Mus musculus	M	C57BL/6
-sub-ZFM+02369	Mus musculus	M	C57BL/6
-sub-ZFM+02370	Mus musculus	M	C57BL/6
-sub-ZFM+02372	Mus musculus	F	C57BL/6
-sub-ZFM+02373	Mus musculus	M	C57BL/6
-sub-ZFM+04308	Mus musculus	F	C57BL/6
-sub-ZM+1897	Mus musculus	F	C57BL/6
-sub-ZM+1898	Mus musculus	F	C57BL/6
-sub-ZM+2240	Mus musculus	M	C57BL/6
-sub-ZM+2241	Mus musculus	F	C57BL/6
-sub-ZM+2245	Mus musculus	F	C57BL/6
-sub-ZM+3003	Mus musculus	M	C57BL/6
-sub-ibl+witten+13	Mus musculus	M	C57BL/6
-sub-ibl+witten+17	Mus musculus	M	C57BL/6
-sub-ibl+witten+18	Mus musculus	M	C57BL/6
-sub-ibl+witten+19	Mus musculus	M	C57BL/6
-sub-ibl+witten+20	Mus musculus	M	C57BL/6
-sub-ibl+witten+25	Mus musculus	M	C57BL/6
-sub-ibl+witten+26	Mus musculus	M	C57BL/6
-sub-ibl+witten+27	Mus musculus	F	C57BL/6
-sub-ibl+witten+29	Mus musculus	M	C57BL/6
-sub-ibl+witten+32	Mus musculus	M	C57BL/6
+participant_id	original_participant_id	species	sex	strain
+sub-CSHL045	sub-CSHL045	Mus musculus	M	C57BL/6
+sub-CSHL047	sub-CSHL047	Mus musculus	M	C57BL/6
+sub-CSHL049	sub-CSHL049	Mus musculus	M	C57BL/6
+sub-CSHL051	sub-CSHL051	Mus musculus	F	C57BL/6
+sub-CSHL052	sub-CSHL052	Mus musculus	F	C57BL/6
+sub-CSHL053	sub-CSHL053	Mus musculus	F	C57BL/6
+sub-CSHL054	sub-CSHL054	Mus musculus	F	C57BL/6
+sub-CSHL055	sub-CSHL055	Mus musculus	F	C57BL/6
+sub-CSHL058	sub-CSHL058	Mus musculus	M	C57BL/6
+sub-CSHL059	sub-CSHL059	Mus musculus	M	C57BL/6
+sub-CSHL060	sub-CSHL060	Mus musculus	M	C57BL/6
+sub-CSH+ZAD+001	sub-CSH_ZAD_001	Mus musculus	F	C57BL/6
+sub-CSH+ZAD+011	sub-CSH_ZAD_011	Mus musculus	F	C57BL/6
+sub-CSH+ZAD+019	sub-CSH_ZAD_019	Mus musculus	F	C57BL/6
+sub-CSH+ZAD+022	sub-CSH_ZAD_022	Mus musculus	M	C57BL/6
+sub-CSH+ZAD+024	sub-CSH_ZAD_024	Mus musculus	M	C57BL/6
+sub-CSH+ZAD+025	sub-CSH_ZAD_025	Mus musculus	M	C57BL/6
+sub-CSH+ZAD+026	sub-CSH_ZAD_026	Mus musculus	M	C57BL/6
+sub-CSH+ZAD+029	sub-CSH_ZAD_029	Mus musculus	M	C57BL/6
+sub-DY+008	sub-DY_008	Mus musculus	M	C57BL/6
+sub-DY+009	sub-DY_009	Mus musculus	M	C57BL/6
+sub-DY+010	sub-DY_010	Mus musculus	M	C57BL/6
+sub-DY+011	sub-DY_011	Mus musculus	M	C57BL/6
+sub-DY+013	sub-DY_013	Mus musculus	M	C57BL/6
+sub-DY+014	sub-DY_014	Mus musculus	M	C57BL/6
+sub-DY+016	sub-DY_016	Mus musculus	M	C57BL/6
+sub-DY+018	sub-DY_018	Mus musculus	M	C57BL/6
+sub-DY+020	sub-DY_020	Mus musculus	M	C57BL/6
+sub-KS014	sub-KS014	Mus musculus	M	C57BL/6
+sub-KS016	sub-KS016	Mus musculus	M	C57BL/6
+sub-KS022	sub-KS022	Mus musculus	M	C57BL/6
+sub-KS023	sub-KS023	Mus musculus	F	C57BL/6
+sub-KS042	sub-KS042	Mus musculus	M	C57BL/6
+sub-KS043	sub-KS043	Mus musculus	M	C57BL/6
+sub-KS044	sub-KS044	Mus musculus	M	C57BL/6
+sub-KS045	sub-KS045	Mus musculus	M	C57BL/6
+sub-KS046	sub-KS046	Mus musculus	M	C57BL/6
+sub-KS051	sub-KS051	Mus musculus	M	C57BL/6
+sub-KS052	sub-KS052	Mus musculus	M	C57BL/6
+sub-KS055	sub-KS055	Mus musculus	M	C57BL/6
+sub-KS084	sub-KS084	Mus musculus	M	C57BL/6
+sub-KS086	sub-KS086	Mus musculus	M	C57BL/6
+sub-KS091	sub-KS091	Mus musculus	M	C57BL/6
+sub-KS094	sub-KS094	Mus musculus	M	C57BL/6
+sub-KS096	sub-KS096	Mus musculus	M	C57BL/6
+sub-MFD+05	sub-MFD_05	Mus musculus	M	C57BL/6
+sub-MFD+06	sub-MFD_06	Mus musculus	M	C57BL/6
+sub-MFD+07	sub-MFD_07	Mus musculus	M	C57BL/6
+sub-MFD+08	sub-MFD_08	Mus musculus	M	C57BL/6
+sub-MFD+09	sub-MFD_09	Mus musculus	M	C57BL/6
+sub-NR+0017	sub-NR_0017	Mus musculus	M	C57BL/6
+sub-NR+0019	sub-NR_0019	Mus musculus	M	C57BL/6
+sub-NR+0020	sub-NR_0020	Mus musculus	M	C57BL/6
+sub-NR+0021	sub-NR_0021	Mus musculus	M	C57BL/6
+sub-NR+0024	sub-NR_0024	Mus musculus	F	C57BL/6
+sub-NR+0027	sub-NR_0027	Mus musculus	M	C57BL/6
+sub-NR+0028	sub-NR_0028	Mus musculus	F	C57BL/6
+sub-NR+0029	sub-NR_0029	Mus musculus	F	C57BL/6
+sub-NR+0031	sub-NR_0031	Mus musculus	F	C57BL/6
+sub-NYU+11	sub-NYU-11	Mus musculus	F	C57BL/6
+sub-NYU+12	sub-NYU-12	Mus musculus	F	C57BL/6
+sub-NYU+21	sub-NYU-21	Mus musculus	F	C57BL/6
+sub-NYU+30	sub-NYU-30	Mus musculus	M	C57BL/6
+sub-NYU+37	sub-NYU-37	Mus musculus	M	C57BL/6
+sub-NYU+39	sub-NYU-39	Mus musculus	M	C57BL/6
+sub-NYU+40	sub-NYU-40	Mus musculus	M	C57BL/6
+sub-NYU+45	sub-NYU-45	Mus musculus	M	C57BL/6
+sub-NYU+46	sub-NYU-46	Mus musculus	M	C57BL/6
+sub-NYU+47	sub-NYU-47	Mus musculus	M	C57BL/6
+sub-NYU+48	sub-NYU-48	Mus musculus	M	C57BL/6
+sub-NYU+65	sub-NYU-65	Mus musculus	M	C57BL/6
+sub-PL015	sub-PL015	Mus musculus	M	C57BL/6
+sub-PL016	sub-PL016	Mus musculus	M	C57BL/6
+sub-PL017	sub-PL017	Mus musculus	M	C57BL/6
+sub-PL024	sub-PL024	Mus musculus	M	C57BL/6
+sub-PL030	sub-PL030	Mus musculus	M	C57BL/6
+sub-PL031	sub-PL031	Mus musculus	M	C57BL/6
+sub-PL033	sub-PL033	Mus musculus	M	C57BL/6
+sub-PL034	sub-PL034	Mus musculus	M	C57BL/6
+sub-PL035	sub-PL035	Mus musculus	M	C57BL/6
+sub-PL037	sub-PL037	Mus musculus	M	C57BL/6
+sub-PL050	sub-PL050	Mus musculus	M	C57BL/6
+sub-SWC+038	sub-SWC_038	Mus musculus	F	C57BL/6
+sub-SWC+039	sub-SWC_039	Mus musculus	F	C57BL/6
+sub-SWC+042	sub-SWC_042	Mus musculus	M	C57BL/6
+sub-SWC+043	sub-SWC_043	Mus musculus	M	C57BL/6
+sub-SWC+052	sub-SWC_052	Mus musculus	F	C57BL/6
+sub-SWC+053	sub-SWC_053	Mus musculus	M	C57BL/6
+sub-SWC+054	sub-SWC_054	Mus musculus	M	C57BL/6
+sub-SWC+058	sub-SWC_058	Mus musculus	M	C57BL/6
+sub-SWC+060	sub-SWC_060	Mus musculus	F	C57BL/6
+sub-SWC+061	sub-SWC_061	Mus musculus	F	C57BL/6
+sub-SWC+065	sub-SWC_065	Mus musculus	F	C57BL/6
+sub-SWC+066	sub-SWC_066	Mus musculus	F	C57BL/6
+sub-UCLA005	sub-UCLA005	Mus musculus	F	C57BL/6
+sub-UCLA006	sub-UCLA006	Mus musculus	F	C57BL/6
+sub-UCLA011	sub-UCLA011	Mus musculus	M	C57BL/6
+sub-UCLA012	sub-UCLA012	Mus musculus	M	C57BL/6
+sub-UCLA014	sub-UCLA014	Mus musculus	F	C57BL/6
+sub-UCLA015	sub-UCLA015	Mus musculus	F	C57BL/6
+sub-UCLA017	sub-UCLA017	Mus musculus	F	C57BL/6
+sub-UCLA030	sub-UCLA030	Mus musculus	F	C57BL/6
+sub-UCLA033	sub-UCLA033	Mus musculus	F	C57BL/6
+sub-UCLA034	sub-UCLA034	Mus musculus	M	C57BL/6
+sub-UCLA035	sub-UCLA035	Mus musculus	M	C57BL/6
+sub-UCLA036	sub-UCLA036	Mus musculus	M	C57BL/6
+sub-UCLA037	sub-UCLA037	Mus musculus	M	C57BL/6
+sub-UCLA044	sub-UCLA044	Mus musculus	F	C57BL/6
+sub-UCLA048	sub-UCLA048	Mus musculus	F	C57BL/6
+sub-UCLA049	sub-UCLA049	Mus musculus	F	C57BL/6
+sub-UCLA052	sub-UCLA052	Mus musculus	F	C57BL/6
+sub-ZFM+01576	sub-ZFM-01576	Mus musculus	F	C57BL/6
+sub-ZFM+01577	sub-ZFM-01577	Mus musculus	F	C57BL/6
+sub-ZFM+01592	sub-ZFM-01592	Mus musculus	M	C57BL/6
+sub-ZFM+01935	sub-ZFM-01935	Mus musculus	M	C57BL/6
+sub-ZFM+01936	sub-ZFM-01936	Mus musculus	F	C57BL/6
+sub-ZFM+01937	sub-ZFM-01937	Mus musculus	F	C57BL/6
+sub-ZFM+02368	sub-ZFM-02368	Mus musculus	M	C57BL/6
+sub-ZFM+02369	sub-ZFM-02369	Mus musculus	M	C57BL/6
+sub-ZFM+02370	sub-ZFM-02370	Mus musculus	M	C57BL/6
+sub-ZFM+02372	sub-ZFM-02372	Mus musculus	F	C57BL/6
+sub-ZFM+02373	sub-ZFM-02373	Mus musculus	M	C57BL/6
+sub-ZFM+04308	sub-ZFM-04308	Mus musculus	F	C57BL/6
+sub-ZM+1897	sub-ZM_1897	Mus musculus	F	C57BL/6
+sub-ZM+1898	sub-ZM_1898	Mus musculus	F	C57BL/6
+sub-ZM+2240	sub-ZM_2240	Mus musculus	M	C57BL/6
+sub-ZM+2241	sub-ZM_2241	Mus musculus	F	C57BL/6
+sub-ZM+2245	sub-ZM_2245	Mus musculus	F	C57BL/6
+sub-ZM+3003	sub-ZM_3003	Mus musculus	M	C57BL/6
+sub-ibl+witten+13	sub-ibl_witten_13	Mus musculus	M	C57BL/6
+sub-ibl+witten+17	sub-ibl_witten_17	Mus musculus	M	C57BL/6
+sub-ibl+witten+18	sub-ibl_witten_18	Mus musculus	M	C57BL/6
+sub-ibl+witten+19	sub-ibl_witten_19	Mus musculus	M	C57BL/6
+sub-ibl+witten+20	sub-ibl_witten_20	Mus musculus	M	C57BL/6
+sub-ibl+witten+25	sub-ibl_witten_25	Mus musculus	M	C57BL/6
+sub-ibl+witten+26	sub-ibl_witten_26	Mus musculus	M	C57BL/6
+sub-ibl+witten+27	sub-ibl_witten_27	Mus musculus	F	C57BL/6
+sub-ibl+witten+29	sub-ibl_witten_29	Mus musculus	M	C57BL/6
+sub-ibl+witten+32	sub-ibl_witten_32	Mus musculus	M	C57BL/6

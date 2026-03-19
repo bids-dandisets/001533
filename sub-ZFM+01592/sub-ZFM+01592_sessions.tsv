@@ -1,4 +1,4 @@
-session_id
-ses-56bc129c+6265+407a+a208+cc16d20a6c01
-ses-5b609f9b+75cb+43d3+9c39+b5b4b7a0db67
-ses-746d1902+fa59+4cab+b0aa+013be36060d5
+session_id	original_session_id
+ses-56bc129c+6265+407a+a208+cc16d20a6c01	ses-56bc129c-6265-407a-a208-cc16d20a6c01
+ses-5b609f9b+75cb+43d3+9c39+b5b4b7a0db67	ses-5b609f9b-75cb-43d3-9c39-b5b4b7a0db67
+ses-746d1902+fa59+4cab+b0aa+013be36060d5	ses-746d1902-fa59-4cab-b0aa-013be36060d5
